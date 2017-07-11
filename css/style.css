@@ -1,0 +1,49 @@
+html, body{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+  background-color: #FFEBD5;
+  font-family: 'Reem Kufi', sans-serif;
+  color: #04102A
+}
+
+.container{
+  text-align: center;
+}
+
+
+.image{
+  width: 250;
+  margin-top: 100;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+
+}
+
+a:hover{
+  text-decoration: none;
+  color: grey;
+}
+
+.nav{
+  margin: 0;
+  padding: 0;
+  background-color: #7D7D7D;
+
+}
+
+
+.nav-link{
+  display: inline-block;
+  padding: 25px;
+}
