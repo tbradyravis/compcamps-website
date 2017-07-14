@@ -4,23 +4,43 @@ html, body{
   padding: 0;
 
   background-color: #FFEBD5;
-  font-family: 'Reem Kufi', sans-serif;
-  color: #04102A
+
 }
 
 .container{
   text-align: center;
+  font-family: 'Reem Kufi', sans-serif;
+  color: #04102A
 }
 
+.proj{
+  font-size: 20px;
+}
+
+.yup{
+  font-size: 50px;
+}
 
 .image{
-  width: 250;
   margin-top: 100;
+  border: 20px solid #04102A
+}
+
+.imagep{
+  width: 1000px;
+  margin-top: 100;
+  border: 20px solid #04102A
 }
 
 ul{
   margin: 0;
   padding: 0;
+}
+
+.info a{
+  font-family: 'Lemonada', cursive;
+  color: #FFEBD5;
+  font-size: 15px;
 }
 
 a{
@@ -42,8 +62,36 @@ a:hover{
 
 }
 
+.bodytxt{
+  font-size: 20px;
+}
+
+.title{
+  font-size: 55px;
+}
+
 
 .nav-link{
   display: inline-block;
   padding: 25px;
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+.right-align{
+  vertical-align: middle;
+}
+
+.info{
+  padding-bottom: 150px;
+  background-color: #04102A;
+  font-family: 'Lemonada', cursive;
+  color: #FFEBD5;
+  text-align: center;
+}
+
+.titleinfo{
+  color: #FFEBD5;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 50px;
 }
